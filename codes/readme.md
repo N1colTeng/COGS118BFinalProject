@@ -6,6 +6,6 @@ The mvsc_compare_two.m and mvsc_compare_two_test.m are the codes for two-view
 spectral clustering using same algorithm but different implementations on two features
 and two numerals. 
 eigsort.m is from hw3. viewcolumn.m is from hw4 with a little modification on the size of 
-the picture reconstructed (from 60*60 to 15*16).
+the picture reconstructed (from 60x60 to 15x16).
 
 In real tests, I used the mvsc_compare_two.m.
