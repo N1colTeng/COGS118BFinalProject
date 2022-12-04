@@ -8,4 +8,4 @@ and two numerals.
 eigsort.m is from hw3. viewcolumn.m is from hw4 with a little modification on the size of 
 the picture reconstructed (from 60x60 to 15x16).
 
-In real tests, I used the mvsc_compare_two.m.
+In real tests, I used mvsc_compare_two.m.
